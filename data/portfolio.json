@@ -3,21 +3,21 @@
         "image": "image1.png",
         "alt": "Logo-Booki",
         "title": "Booki",
-        "text": "Find your accommodation for a dream holiday.",
+        "text": "Trouvez votre hébergement pour des vacances de rêve.",
         "link": "https://github.com/menu-bit/Booki"
     },
     {
         "image": "image4.png",
         "alt": "Logo-sophie-bluel",
         "title": "Portfolio architecte sophie-bluel",
-        "text": "Designing spaces that tell your story.",
+        "text": "Imaginer des lieux qui parlent de vous.",
         "link": "https://github.com/menu-bit/Portfolio-architecte-sophie-bluel"
     },
     {
         "image": "image3.png",
         "alt": "Logo-Kasa",
         "title": "Kasa",
-        "text": "One of the leading private apartment rental in France. ",
+        "text": "Leader de la location d’appartements privés en France.",
         "link": "https://github.com/menu-bit/project-kasa-frontend"
     }
 ]
