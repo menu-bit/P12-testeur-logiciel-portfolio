@@ -3,19 +3,19 @@
         "image": "image1.png",
         "alt": "Logo-Booki",
         "title": "Booki",
-        "text": "Find your accommodation for a dream holiday",
+        "text": "Find your accommodation for a dream holiday.",
         "link": "https://github.com/menu-bit/Booki"
     },
     {
         "image": "image2.png",
-        "alt": "Logo-Booki",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "alt": "Logo-sophie-bluel",
+        "title": "Portfolio architecte sophie-bluel",
+        "text": "An interior designer, Designing spaces that tell your story.",
         "link": "https://github.com/menu-bit/Portfolio-architecte-sophie-bluel"
     },
     {
         "image": "image3.png",
-        "alt": "Logo-Booki",
+        "alt": "Logo-Kasa",
         "title": "Kasa",
         "text": "With over 500 listings posted every day, Kasa is one of the leading private apartment rental companies in France. ",
         "link": "https://github.com/menu-bit/project-kasa-frontend"
