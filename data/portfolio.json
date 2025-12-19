@@ -10,14 +10,14 @@
         "image": "image2.png",
         "alt": "Logo-sophie-bluel",
         "title": "Portfolio architecte sophie-bluel",
-        "text": "An interior designer, Designing spaces that tell your story.",
+        "text": "Designing spaces that tell your story.",
         "link": "https://github.com/menu-bit/Portfolio-architecte-sophie-bluel"
     },
     {
         "image": "image3.png",
         "alt": "Logo-Kasa",
         "title": "Kasa",
-        "text": "With over 500 listings posted every day, Kasa is one of the leading private apartment rental companies in France. ",
+        "text": "One of the leading private apartment rental in France. ",
         "link": "https://github.com/menu-bit/project-kasa-frontend"
     }
 ]
